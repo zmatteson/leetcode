@@ -1,8 +1,8 @@
 .vscode/
-./solutions/tests/__pychache__/
-./solutions/tests/.cache/
-./Solutions/__pychache__/
-./cache/
+./solutions/tests/__pychache__/*
+./solutions/tests/.cache/*
+./Solutions/__pychache__/*
+./cache/*
 /build/
 /dist/
 /Solutions.egg-info/
