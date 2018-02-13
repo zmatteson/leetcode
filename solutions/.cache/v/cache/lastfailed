@@ -1,0 +1,3 @@
+{
+  "tests/test_count_and_say.py::test_one_returns_one_one": true
+}
