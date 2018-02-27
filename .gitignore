@@ -1,10 +1,9 @@
 .vscode/
-./solutions/tests/__pychache__/*
-./solutions/tests/.cache/
+/solutions/tests/__pychache__/*
+/solutions/tests/.cache/
 /solutions/__pycache__/
 /solutions/.cache/
-./cache/*
+.cache/
 /build/
 /dist/
 /Solutions.egg-info/
-.cache/
