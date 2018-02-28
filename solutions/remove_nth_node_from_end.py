@@ -13,7 +13,7 @@ def print_list(node):
         else:
             node = node.next
 
-
+#My solution does not finish in one pass, but it would be easy to implement
 def removeNthFromEnd(head, n):
     """
     :type head: ListNode
